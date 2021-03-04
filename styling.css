@@ -83,13 +83,3 @@ button{
     color: white;
     
 }
-#line{
-    height: 3px;
-    width: 500px;
-    background-color:red ;
-    position: absolute;
-    top: 50%;
-    left: 25%;
-   
-
-}
